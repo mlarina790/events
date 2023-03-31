@@ -1,0 +1,19 @@
+body {
+	display: grid;
+	place-items: center;
+}
+
+.wrapper {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	width: 480px;
+}
+
+.wrapper div {
+	height: 120px;
+	border: 1px solid #000;
+}
+
+.gameover {
+	padding: 20px;
+}
