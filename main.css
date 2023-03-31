@@ -1,0 +1,1 @@
+body{display:grid;place-items:center}.wrapper{display:grid;grid-template-columns:repeat(4,1fr);width:480px}.wrapper div{border:1px solid #000;height:120px}.gameover{padding:20px}
